@@ -30,6 +30,9 @@
     <None Include="style.css">
       <Filter>源文件\styles</Filter>
     </None>
+    <None Include="test.js">
+      <Filter>源文件\scripts</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Image Include="images\IMG_6913.jpg">
